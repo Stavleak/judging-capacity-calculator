@@ -1,0 +1,8 @@
+{
+  "projects": 100,
+  "reviewsPerProject": 3,
+  "reviewMinutes": 8,
+  "judges": 12,
+  "availableMinutes": 180,
+  "usableFraction": 0.75
+}
